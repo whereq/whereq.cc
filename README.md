@@ -48,9 +48,8 @@ WhereQ.cc is currently under development. We're excited to bring you the best po
 
 **Follow us for updates and announcements!**
 
-* [Twitter](Your Twitter Link Here)
-* [Discord](Your Discord Link Here)
-* [Telegram](Your Telegram Link Here)
+* [Discord](Discord Link)
+* [Telegram](Telegram Link)
 
 ## Contributing
 
@@ -61,6 +60,3 @@ While the core platform is being built by the WhereQ team, we value community fe
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 **Thank you for your interest in WhereQ.cc! We can't wait to help you navigate the world of crypto.**
-```
-
-**Remember to replace the placeholder links (e.g., `Your Twitter Link Here`) with your actual social media links and create a `LICENSE` file in your project root.** This README provides a comprehensive overview of your project's goals, target audience, technology stack, and future plans. You can further customize it as your platform evolves.
