@@ -1,0 +1,53 @@
+- symbol: BTC/USDT
+  name: Bitcoin
+  price: "$67,892.34"
+  change: "+2.34%"
+  logo: "https://cryptologos.cc/logos/bitcoin-btc-logo.png"
+
+- symbol: ETH/USDT
+  name: Ethereum
+  price: "$3,812.56"
+  change: "+1.78%"
+  logo: "https://cryptologos.cc/logos/ethereum-eth-logo.png"
+
+- symbol: BNB/USDT
+  name: "Binance Coin"
+  price: "$587.23"
+  change: "-0.45%"
+  logo: "https://cryptologos.cc/logos/bnb-bnb-logo.png"
+
+- symbol: DOGE/USDT
+  name: Dogecoin
+  price: "$0.1578"
+  change: "+5.67%"
+  logo: "https://cryptologos.cc/logos/dogecoin-doge-logo.png"
+
+- symbol: SHIBA/USDT
+  name: "Shiba Inu"
+  price: "$0.000027"
+  change: "-3.12%"
+  logo: "https://cryptologos.cc/logos/shiba-inu-shib-logo.png"
+
+- symbol: SOL/USDT
+  name: Solana
+  price: "$172.89"
+  change: "+4.23%"
+  logo: "https://cryptologos.cc/logos/solana-sol-logo.png"
+
+- symbol: FTM/USDT
+  name: Fantom
+  price: "$0.7823"
+  change: "+1.89%"
+  logo: "https://cryptologos.cc/logos/fantom-ftm-logo.png"
+
+- symbol: ARB/USDT
+  name: Arbitrum
+  price: "$1.234"
+  change: "-2.34%"
+  logo: "https://cryptologos.cc/logos/arbitrum-arb-logo.png"
+
+- symbol: TRX/USDT
+  name: TRON
+  price: "$0.1234"
+  change: "+0.56%"
+  logo: "https://cryptologos.cc/logos/tron-trx-logo.png"
